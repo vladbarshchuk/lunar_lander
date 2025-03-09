@@ -1,0 +1,2 @@
+Score: -117.91672015190125, Fuel Consumed: 81
+Score: 253.5080858096759, Fuel Consumed: 221
